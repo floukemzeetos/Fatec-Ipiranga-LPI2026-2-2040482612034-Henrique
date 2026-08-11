@@ -22,7 +22,7 @@
 <br clear="both">
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-    <img align="right" height="200" src="elementosDoReadme/images/gif/klonoa.gif" style="margin-left: 15px; border-radius: 10px;" alt="Klonoa GIF">
+    <img align="right" height="200" width="200" src="elementosDoReadme/images/gif/klonoa.gif" style="margin-left: 15px; border-radius: 10px;" alt="Klonoa GIF">
     <div>
         <div align="center">
             <h4 style="font-family: 'Comic Sans MS', sans-serif; color: #498de2;">O que é este repositório?</h4>
@@ -36,7 +36,7 @@
 <br clear="both">
 
 <div style="overflow: hidden; margin-bottom: 20px;">
-    <img align="left" height="170" src="elementosDoReadme/images/jpg/9ccd8cd97cf3c5f576732607a12f21c7.jpg" style="margin-right: 15px; border-radius: 10px; transform: scaleX(-1);" alt="iMac G3 Blue">
+    <img align="left" height="170" src="elementosDoReadme/images/jpg/imacg3.png" style="margin-right: 15px; border-radius: 10px; transform: scaleX(-1);" alt="iMac G3 Blue">
     <div>
 </div>
 
